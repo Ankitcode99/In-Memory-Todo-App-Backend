@@ -7,8 +7,8 @@ We are not using any database so all the data persists only till the server is u
 # How to setup & run locally
 
 ```
-git clone 
-cd 
+git clone https://github.com/Ankitcode99/In-Memory-Todo-App-Backend.git
+cd In-Memory-Todo-App-Backend
 npm install 
-npm run 
+npm run dev
 ```
